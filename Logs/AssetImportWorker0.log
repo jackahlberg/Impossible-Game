@@ -2093,3 +2093,9 @@ Received Import Request.
   path: Assets/Prefabs/'Grass.prefab
   artifactKey: Guid(290d95d5321f04978a04aa62e1cd80f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/'Grass.prefab using Guid(290d95d5321f04978a04aa62e1cd80f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9df5cdd4b3efe97d70ca53108befd2') in 0.050862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1049.873154 seconds.
+  path: Assets/Prefabs/Goalflag.prefab
+  artifactKey: Guid(507082bc0998a4542b09981bedf5bdde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Goalflag.prefab using Guid(507082bc0998a4542b09981bedf5bdde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14f45776b076304ea7dcb8d83ebcaa1') in 0.039131 seconds 

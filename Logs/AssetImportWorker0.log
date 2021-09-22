@@ -2075,3 +2075,15 @@ Received Import Request.
   path: Assets/Prefabs/Grasslands.mat
   artifactKey: Guid(9dafdf190ea4e4df399a8e27bbc95e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Grasslands.mat using Guid(9dafdf190ea4e4df399a8e27bbc95e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060f1da9bf173ffd8fc31de55492d7a1') in 0.046878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 709.893017 seconds.
+  path: Assets/Prefabs/HexagonPointedTop.png
+  artifactKey: Guid(b85efe2ecbcef4c8b83d47a3a591fea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HexagonPointedTop.png using Guid(b85efe2ecbcef4c8b83d47a3a591fea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf9104adde9c10e6b4c120963467473') in 0.934157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.347433 seconds.
+  path: Assets/Prefabs/Spiikes.prefab
+  artifactKey: Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spiikes.prefab using Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b296d09d4d730b8bd8bf147595483f5') in 0.105534 seconds 

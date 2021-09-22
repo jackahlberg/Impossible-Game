@@ -1653,3 +1653,45 @@ Received Import Request.
   path: Assets/Goal.asset
   artifactKey: Guid(83ff70d2be7ac413d83bdc7a1ea29ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Goal.asset using Guid(83ff70d2be7ac413d83bdc7a1ea29ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '815681e84ece8f80e68af3d9ea87ea9b') in 0.515972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 680.586461 seconds.
+  path: Assets/Scenes/Impossible Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Impossible Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '89f254113c87ef97502dd48af881a166') in 0.309793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Scripts/Movement + Win + Death.asset
+  artifactKey: Guid(0945ca91dc5264c588fc91cd69749a24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Movement + Win + Death.asset using Guid(0945ca91dc5264c588fc91cd69749a24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'af5831c36300438e05dcf428150f0c6e') in 0.705579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(32248f5733908428eb3f441ae4eb66d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Level 2.unity using Guid(32248f5733908428eb3f441ae4eb66d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd28b2ef951b72752f8e4c0035c99e75d') in 0.006292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+  artifactKey: Guid(f74951e191da149b2b67c345a496ec4e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db using Guid(f74951e191da149b2b67c345a496ec4e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1b1593693ee1fe20529c5f9b5a3b47db') in 0.476884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1243.038452 seconds.
+  path: Assets/Scripts/Movement + Win + Death.asset
+  artifactKey: Guid(0945ca91dc5264c588fc91cd69749a24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Movement + Win + Death.asset using Guid(0945ca91dc5264c588fc91cd69749a24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f69cf04bd6ab877b96e5e094a3c97eb2') in 0.043278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Scenes/Impossible Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Impossible Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ccce0156d433a44cd7f45ec68bbcda71') in 0.010184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.982721 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(32248f5733908428eb3f441ae4eb66d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(32248f5733908428eb3f441ae4eb66d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ed48f88b75f8a01c38b42f7c4730d6') in 0.003974 seconds 

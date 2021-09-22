@@ -1159,3 +1159,9 @@ Received Import Request.
   path: Assets/Scenes/Level 2.unity
   artifactKey: Guid(32248f5733908428eb3f441ae4eb66d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Level 2.unity using Guid(32248f5733908428eb3f441ae4eb66d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c681db349fabb8c6de3e864f2c57c95d') in 0.018578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 425.438459 seconds.
+  path: Assets/Scenes/Impossible Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Impossible Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e93eb62bef70252f39650d44447a79d') in 0.005383 seconds 

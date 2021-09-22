@@ -1165,3 +1165,21 @@ Received Import Request.
   path: Assets/Scenes/Impossible Game.unity
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Impossible Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e93eb62bef70252f39650d44447a79d') in 0.005383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1385.483779 seconds.
+  path: Assets/Unity.VisualScripting.Generated/VisualScripting.Flow
+  artifactKey: Guid(1b43fe864a2234ea8a68a111e9c9c333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity.VisualScripting.Generated/VisualScripting.Flow using Guid(1b43fe864a2234ea8a68a111e9c9c333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc6e19e8cc5a115d48eb65064be6db2') in 0.012157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.071949 seconds.
+  path: Assets/Movement + Win + Death.asset
+  artifactKey: Guid(0945ca91dc5264c588fc91cd69749a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Movement + Win + Death.asset using Guid(0945ca91dc5264c588fc91cd69749a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f416cc856555dd2f1ae2f0d5377c8d3') in 1.333416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.330639 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(56c2b11c0e77c42e2a8aee08455466f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(56c2b11c0e77c42e2a8aee08455466f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e147f13af495352788cf1b78bfbdc7f') in 0.001769 seconds 

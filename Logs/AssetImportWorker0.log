@@ -2215,3 +2215,63 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 749.784311 seconds.
+  path: Assets/Scripts/Jumping.asset
+  artifactKey: Guid(d3ba1abc1d1c7455bbd8516ec2b20e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Jumping.asset using Guid(d3ba1abc1d1c7455bbd8516ec2b20e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43722674820141f611a248c659dec647') in 1.058272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Scripts/Movement + Win + Death.asset
+  artifactKey: Guid(0945ca91dc5264c588fc91cd69749a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movement + Win + Death.asset using Guid(0945ca91dc5264c588fc91cd69749a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3cf618e070926e1ca61896bc662e6c') in 0.124129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.548860 seconds.
+  path: Assets/Scripts/Spike.asset
+  artifactKey: Guid(2c4959e8fee884953a4f250597b0d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spike.asset using Guid(2c4959e8fee884953a4f250597b0d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7bca735ee7825fe3cc97910c7842a1f') in 0.003832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.572055 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69245810c47e840da213b58690aa7da2') in 0.004431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.666519 seconds.
+  path: Assets/Scripts/Movement + Win + Death.asset
+  artifactKey: Guid(0945ca91dc5264c588fc91cd69749a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movement + Win + Death.asset using Guid(0945ca91dc5264c588fc91cd69749a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d26dcf7a0a48b950115be6426fed58f') in 0.022913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Scripts/Spike.asset
+  artifactKey: Guid(2c4959e8fee884953a4f250597b0d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spike.asset using Guid(2c4959e8fee884953a4f250597b0d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7429746ae026095fedc7cdb49431de58') in 0.006985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.145113 seconds.
+  path: Assets/Scripts/Win Level.asset
+  artifactKey: Guid(cfc1a73c13cfd4ee98374c8a61bc08bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Win Level.asset using Guid(cfc1a73c13cfd4ee98374c8a61bc08bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9e8ea9d159f372fccc5e30409b7e4b') in 0.003563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.380603 seconds.
+  path: Assets/Scripts/Win Level.asset
+  artifactKey: Guid(cfc1a73c13cfd4ee98374c8a61bc08bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Win Level.asset using Guid(cfc1a73c13cfd4ee98374c8a61bc08bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db674906784a0c03cba6fdf2fbe4dac8') in 0.022767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.216226 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9550898fcaa258e547eed6e1f4e065') in 0.003540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.621728 seconds.
+  path: Assets/Scenes/Level One.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level One.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa068032d4cb48eebf81de7d4b8199ab') in 0.003961 seconds 

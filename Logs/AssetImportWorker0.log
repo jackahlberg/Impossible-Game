@@ -330,3 +330,163 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3341.917633 seconds.
+  path: Assets/Prefabs/Spiikes.prefab
+  artifactKey: Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spiikes.prefab using Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b512b0ba9abe064eb76f5d7f600fce') in 0.644809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.534638 seconds.
+  path: Assets/Prefabs/Spiikes Variant.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spiikes Variant.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de31dbee20aa945c21735ffca007ac0') in 0.017503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.726637 seconds.
+  path: Assets/Prefabs/3 Spikes.prefab
+  artifactKey: Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/3 Spikes.prefab using Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdd5de38defdfd663588f65bbfdd85f') in 0.007423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Prefabs/Spiikes Variant.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spiikes Variant.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289bbeb8d60ac4891610970e0ce58767') in 0.006833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.254797 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e467056535f9219bed9d1fc651cf6852') in 0.007527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.848214 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787653a33856f767d6c2ac369634b8c1') in 0.010037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Prefabs/3 Spikes.prefab
+  artifactKey: Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/3 Spikes.prefab using Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6240414133dae1fdb4eeca8bb90a229') in 0.006792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.981702 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9489b9766b9d2618d3df32c1a7388d') in 0.007668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Prefabs/3 Spikes.prefab
+  artifactKey: Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/3 Spikes.prefab using Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2291376112ee34d84768bd8500799899') in 0.006772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.963099 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97bd6d02ff3d557247d0f13670d49753') in 0.089592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.264499 seconds.
+  path: Assets/Prefabs/3 Spikes.prefab
+  artifactKey: Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/3 Spikes.prefab using Guid(5f8de956c795e438e87a9d6bfc940602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46473c0cfc461af0e290c9b2984fcdad') in 0.914048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28275158ba8b7c7a551ccbd8fbf6ec1d') in 0.017320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.887475 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410b10b55a3ca11eb0e8ac5062f552ca') in 0.010535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 109.579960 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77bae2149d8274393d0ed79c11e27e1') in 0.013269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.146752 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2815cb5a431362499bdd2f70cf8e5e') in 0.011018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.523067 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192195f92d5fe26ad4fb7c7a64ca1bef') in 0.010019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.889067 seconds.
+  path: Assets/Prefabs/2 Spikes.prefab
+  artifactKey: Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/2 Spikes.prefab using Guid(9b9a3755a986c4b95a182b3adabe2ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004be744d08eb5b8b72dc37ddc169002') in 0.008774 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005852 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/jackahlberg/Projects/Impossible-Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/jackahlberg/Projects/Impossible-Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.625 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2626ms)
+		BeginReloadAssembly (294ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (49ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (132ms)
+		EndReloadAssembly (2218ms)
+			LoadAssemblies (192ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (476ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (1184ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (1032ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (47ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 296.8 MB.
+System memory in use after: 297.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4322.
+Total: 3.066500 ms (FindLiveObjects: 0.214750 ms CreateObjectMapping: 0.111167 ms MarkObjects: 2.719666 ms  DeleteObjects: 0.019375 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
